@@ -1,154 +1,258 @@
 <div align="center">
 
-<img src="YOUR_BANNER_URL" width="100%" />
+<img src="YOUR_BANNER_HERE" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=00F7B6&center=true&vCenter=true&width=900&lines=Cybersecurity+Researcher;Web+Application+Security;AI+Security+Systems;SOC+%26+Threat+Hunting;Building+Security+Automation+Tools" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Researcher;AI+Security+Builder;Web+Application+Security;Threat+Detection+Systems;Security+Automation+Engineer" />
 
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=princy0708&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/princy0708?style=flat&color=0e75b6" />
+<img src="https://img.shields.io/github/followers/princy0708?style=flat-square&color=00F0FF&labelColor=0D1117"/>
+<img src="https://komarev.com/ghpvc/?username=princy0708&style=flat-square&color=00F0FF&label=PROFILE+VIEWS"/>
 </p>
 
 </div>
 
 ---
 
-# Princy Chauhan
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Princy Chauhan
 
-Cybersecurity undergraduate focused on penetration testing, AI-powered security systems, and threat analysis.
+```python
+class PrincyChauhan:
 
-Currently building practical offensive security and automation projects while exploring modern SOC and threat hunting workflows.
+    def __init__(self):
+        self.role = "Cybersecurity Researcher"
+        self.focus = [
+            "Web Application Security",
+            "AI Security Systems",
+            "Threat Hunting",
+            "Security Automation"
+        ]
 
----
-
-## About
-
-```yaml
-Name: Princy Chauhan
-Location: Dehradun, India
-
-Domains:
-  - Web Application Security
-  - Penetration Testing
-  - Threat Hunting
-  - AI Security
-  - Digital Forensics
-
-Learning:
-  - CPT Preparation
-  - Malware Analysis
-  - Red Team Fundamentals
-  - Security Automation
+    def current_status(self):
+        return "Building security-focused AI systems"
 ```
 
 ---
 
-## Technical Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,github,vscode,mysql" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=orange" />
-<img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SqlMap-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Nessus-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux" />
+## ⚡ Security • AI • Offensive Research
 
 </div>
 
 ---
 
-## Experience
+# 🧠 Core Areas
 
-### Ethical Hacking Intern — IIT Kharagpur (Awaaz Initiative)
+<div align="center">
 
-- Performed web application vulnerability assessments
-- Conducted reconnaissance and attack surface mapping
-- Identified and documented validated security vulnerabilities
-- Worked with Burp Suite, SqlMap, and Nmap
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🔍 Security Research
+
+Web security  
+Threat analysis  
+Recon workflows
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖 AI Security
+
+Detection systems  
+ML pipelines  
+Automation
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚔ Offensive Security
+
+XSS  
+SQLi  
+Lab environments
+
+</td>
+
+<td align="center" width="25%">
+
+### 🛰 SOC & DFIR
+
+Threat hunting  
+Log analysis  
+Digital forensics
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-### Cyber Police Internship — Cyber Police Station Jammu
+# 🚀 Featured Projects
 
-- Assisted cybercrime investigation workflows
-- Analyzed phishing and online fraud patterns
-- Supported digital evidence analysis
-- Contributed to incident response documentation
+<div align="center">
 
----
+<table>
+<tr>
+<td width="50%">
 
-# Featured Projects
+## 🕵️ StegaGuard
 
-## StegaGuard
+AI-powered steganalysis framework for hidden payload detection.
 
-ML-based steganalysis system designed to detect hidden payloads inside images using feature extraction and classification techniques.
-
-```python
-if hidden_payload_detected:
-    trigger_alert()
-```
-
-### Highlights
-- Hidden payload detection
-- ML classification pipeline
-- Feature extraction system
-- Security-focused dataset validation
-
----
-
-## Voxen — AI Digital Twin
-
-AI avatar generation pipeline built using deep learning and computer vision techniques.
-
-### Technologies
-- Wav2Lip
-- SadTalker
-- Temporal smoothing
-- Video stabilization
-- Face synchronization
-
----
-
-## Cryptocrack
-
-Multi-scheme encoding analysis and decryption framework for CTF forensics and payload analysis.
-
-```bash
-python cryptocrack.py --magic encoded.txt
-```
+### Tech
+`Python` `Machine Learning` `Security`
 
 ### Features
-- Supports 20+ encoding schemes
-- Automated multi-layer decoding
-- OCR-based payload extraction
-- EXIF metadata analysis
-- CLI + Docker support
+- Hidden payload detection
+- Image feature extraction
+- ML classification
+- Security validation pipeline
 
-### Supported Formats
-- Base2 → Base92
-- Morse Code
-- URL Encoding
-- HTML Entities
-- Hex / Binary / ROT Variants
+</td>
+
+<td width="50%">
+
+## 🔓 Cryptocrack
+
+Encoding analysis & automated decryption toolkit.
+
+### Tech
+`Python` `Docker` `OCR` `CLI`
+
+### Features
+- 20+ encoding schemes
+- Multi-layer decoding
+- OCR payload extraction
+- EXIF metadata analysis
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🎭 Voxen
+
+AI-powered digital twin generation pipeline.
+
+### Stack
+`Wav2Lip` `SadTalker` `OpenCV`
+
+### Features
+- Facial synchronization
+- Temporal smoothing
+- Video stabilization
+- Realistic avatar generation
+
+</td>
+
+<td width="50%">
+
+## 🛰 AutoRecon-X
+
+Automated reconnaissance workflow engine.
+
+### Features
+- Subdomain enumeration
+- Port scanning
+- Directory fuzzing
+- Tech fingerprinting
+
+</td>
+</tr>
+
+</table>
+
+</div>
 
 ---
 
-## Security Labs
+# ⚙️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,mysql,git,github,vscode" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/BurpSuite-111111?style=for-the-badge&logo=burpsuite&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SqlMap-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux"/>
+
+</div>
+
+---
+
+# 🛡 Experience
+
+<table>
+<tr>
+<td width="50%">
+
+## IIT Kharagpur
+
+### Ethical Hacking Intern
+
+- Vulnerability assessments
+- Reconnaissance workflows
+- Web security testing
+- Remediation documentation
+
+</td>
+
+<td width="50%">
+
+## Cyber Police Jammu
+
+### Cybercrime Internship
+
+- Phishing analysis
+- Digital evidence handling
+- Threat investigation
+- Incident documentation
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=princy0708&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=princy0708&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=princy0708&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+# 🧪 Active Labs
 
 ```text
 [✓] PortSwigger Web Security Academy
-[✓] DVWA
 [✓] TryHackMe
+[✓] DVWA
 [✓] VulnHub
 [✓] SQL Injection Labs
 [✓] XSS Practice
@@ -156,44 +260,19 @@ python cryptocrack.py --magic encoded.txt
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=princy0708&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=princy0708&theme=tokyonight&hide_border=true&background=00000000" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=princy0708&theme=tokyo-night&hide_border=true&bg_color=00000000" />
-
-</div>
-
----
-
-## Current Focus
+# 📡 Current Focus
 
 ```diff
 + AI-assisted security tooling
-+ Threat detection automation
++ Threat detection systems
 + Offensive security labs
-+ Reconnaissance workflows
-+ Security research & learning
++ Security automation
++ Threat hunting workflows
 ```
 
 ---
 
-## Certifications
-
-- Microsoft SC-900 — Security, Compliance & Identity Fundamentals
-- Ethical Hacking — IIT Kharagpur Initiative
-- Hack Track Cybersecurity
-- CPT (In Progress)
-
----
-
-## Connect
+# 🌐 Connect
 
 <div align="center">
 
@@ -215,6 +294,6 @@ python cryptocrack.py --magic encoded.txt
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/princy0708/princy0708/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/princy0708/princy0708/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
