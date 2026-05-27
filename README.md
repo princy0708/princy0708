@@ -1,16 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:020617,25:0B1120,50:111827,75:1E293B,100:2563EB&text=PRINCY%20CHAUHAN&fontColor=E2E8F0&fontSize=58&fontAlignY=37&desc=CYBERSECURITY%20RESEARCHER%20•%20AI%20SECURITY%20•%20OFFENSIVE%20RESEARCH&descAlignY=58&animation=fadeIn"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=900&color=58A6FF&center=true&vCenter=true&width=1000&lines=Threat+Detection+Engineering;AI-Powered+Security+Systems;Offensive+Security+Research;CTF+Forensics+%26+Payload+Analysis;Security+Automation+Pipelines;Building+Real-World+Cybersecurity+Projects" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-111827?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/FOCUS-AI_SECURITY-111827?style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=PRINCY%20CHAUHAN&fontSize=55&animation=fadeIn&fontColor=E2E8F0&stroke=58A6FF&color=0:020617,30:0B1120,60:111827,100:2563EB"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=AI-Powered+Cybersecurity+Systems;Offensive+Security+Research;Threat+Detection+Engineering;Payload+Analysis+%26+Digital+Forensics;Security+Automation+Pipelines;Building+Real-World+Security+Projects" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ROLE-SECURITY_RESEARCHER-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-AI_SECURITY-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ENV-KALI_LINUX-111827?style=for-the-badge&logo=kalilinux"/>
 
 <br><br>
@@ -37,26 +41,16 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnduZjBzMWY0a3p2eG1wcG9hYWlxbjF0YjB3MDF3dmQ1eW8yMGs3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41lVsYDBC0UVQJCE/giphy.gif" width="100%"/>
-
-</div>
-
----
-
-# ~/boot/init_security.sh
-
-<div align="center">
-
 ```txt
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│  INITIALIZING SECURITY RESEARCH ENVIRONMENT                  │
+│   INITIALIZING SECURITY RESEARCH ENVIRONMENT                 │
 │                                                              │
-│  [✓] AI SECURITY MODULES ONLINE                              │
-│  [✓] THREAT DETECTION SYSTEMS ACTIVE                         │
-│  [✓] OFFENSIVE SECURITY TOOLKIT LOADED                       │
-│  [✓] DIGITAL FORENSICS ENVIRONMENT READY                     │
-│  [✓] PAYLOAD ANALYSIS PIPELINES INITIALIZED                  │
+│   [✓] AI SECURITY MODULES ONLINE                             │
+│   [✓] THREAT DETECTION SYSTEMS ACTIVE                        │
+│   [✓] OFFENSIVE SECURITY TOOLKIT LOADED                      │
+│   [✓] DIGITAL FORENSICS ENVIRONMENT READY                    │
+│   [✓] PAYLOAD ANALYSIS PIPELINES INITIALIZED                 │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -68,6 +62,10 @@
 # /usr/princy/about.py
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750251-f6c1b2d5-0d0d-4d07-9f0a-8b5f6e9d7c3f.gif" width="100%"/>
+
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Initializing+Security+Profile...;Loading+Threat+Detection+Systems...;Offensive+Security+Toolkit+Ready...;Research+Environment+Initialized...;AI-Powered+Cybersecurity+Systems+Online..." />
 
@@ -115,7 +113,9 @@ class PrincyChauhan:
         self.active_projects = [
             "Cryptocrack",
             "StegaGuard",
-            "Voxen"
+            "Voxen",
+            "ReconFlow",
+            "ThreatVision"
         ]
 
         self.current_focus = [
@@ -170,7 +170,7 @@ root@security-node:~$
 
 # 🔓 CRYPTOCRACK
 
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d4c0b85-2cb8-44f5-bac7-2e8f9d7b7f1d.gif" width="100%"/>
 
 ### Multi-Layer Payload Analysis Framework
 
@@ -221,7 +221,7 @@ Python • Docker • OCR • CLI
 
 # 🕵️ STEGAGUARD
 
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50d6e1a4d.gif" width="100%"/>
 
 ### AI-Powered Steganalysis Engine
 
@@ -262,7 +262,7 @@ Python • Machine Learning • Security Research
 
 # 🎭 VOXEN
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750005-f5c63f6f-0cbb-42f2-9f5f-f6f9d1b0f4dc.gif" width="100%"/>
 
 ### AI Digital Twin Generation Pipeline
 
@@ -297,7 +297,7 @@ Deep Learning • Computer Vision • Python
 
 # 🧪 ACTIVE SECURITY LABS
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749726-2f4dbf6b-3c7e-4d0b-87d3-4ec0cb162d0d.gif" width="100%"/>
 
 ```txt
 [✓] PortSwigger Labs
@@ -331,7 +331,7 @@ Deep Learning • Computer Vision • Python
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749726-2f4dbf6b-3c7e-4d0b-87d3-4ec0cb162d0d.gif" width="100%"/>
 
 </div>
 
@@ -399,6 +399,10 @@ operations:
 # /usr/bin/security_toolkit
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744919-84e7a9d0-6b83-4b48-b5ef-6c8b95d9f95d.gif" width="70%"/>
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,github,vscode,mysql" />
 
