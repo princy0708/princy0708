@@ -1,39 +1,26 @@
 <div align="center">
 
-```txt
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                              ┃
-┃   ██████╗ ██████╗ ██╗███╗   ██╗ ██████╗██╗   ██╗             ┃
-┃   ██╔══██╗██╔══██╗██║████╗  ██║██╔════╝╚██╗ ██╔╝             ┃
-┃   ██████╔╝██████╔╝██║██╔██╗ ██║██║      ╚████╔╝              ┃
-┃   ██╔═══╝ ██╔══██╗██║██║╚██╗██║██║       ╚██╔╝               ┃
-┃   ██║     ██║  ██║██║██║ ╚████║╚██████╗   ██║                ┃
-┃   ╚═╝     ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝   ╚═╝                ┃
-┃                                                              ┃
-┃        CYBERSECURITY • AI SECURITY • RESEARCH                ┃
-┃                                                              ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,50:111827,100:1f2937&text=PRINCY%20CHAUHAN&fontColor=58A6FF&fontSize=52&fontAlignY=38&desc=Cybersecurity%20•%20AI%20Security%20•%20Offensive%20Research&descAlignY=58&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Offensive+Security+Researcher;AI-Powered+Security+Systems;Threat+Detection+Engineering;Digital+Forensics+%26+Security+Automation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Security+Systems;Threat+Detection+%26+Security+Automation;Penetration+Testing+%26+Security+Research;CTF+Forensics+%26+Payload+Analysis" />
 
 <br><br>
 
+<p align="center">
 <a href="https://github.com/princy0708">
-<img src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/princy-chauhan-065236373">
-<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:princychauhan1304@gmail.com">
-<img src="https://img.shields.io/badge/email-161b22?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br><br>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=princy0708&style=flat-square&color=58A6FF"/>
 
@@ -41,65 +28,71 @@
 
 ---
 
-# ~/security/profile.sys
-
-```bash
-root@threat-node:~$ cat princy.profile
-
-NAME        :: Princy Chauhan
-ROLE        :: Cybersecurity Researcher
-LOCATION    :: India
-
-FOCUS       ::
-               • Offensive Security
-               • Threat Detection
-               • AI Security Systems
-               • Digital Forensics
-               • Security Automation
-
-STATUS      :: ACTIVE
-```
-
----
-
-# ~/active/modules
-
 <div align="center">
 
-| MODULE | STATUS |
-|---|---|
-| Offensive Security | ONLINE |
-| Threat Intelligence | ONLINE |
-| AI Security Pipelines | ONLINE |
-| Digital Forensics | ONLINE |
-| Recon Automation | ONLINE |
+```bash
+root@security-node:~$ initialize_profile
+
+[✓] Threat Detection Systems Online
+[✓] AI Security Pipelines Active
+[✓] Offensive Security Toolkit Loaded
+[✓] Security Research Environment Ready
+```
 
 </div>
 
 ---
 
-# ~/flagship/projects
+# About Me
 
-## [ CRYPTOCRACK ]
+<img align="right" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW0xZm9jZ2d6YW9jMTRhYW5hcW9kcjJqM2RxbzNnYTVxczJ0eG80dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```python
+class PrincyChauhan:
+
+    def __init__(self):
+
+        self.role = "Cybersecurity Researcher"
+
+        self.focus = [
+            "Penetration Testing",
+            "Threat Detection",
+            "AI Security",
+            "Digital Forensics",
+            "Security Automation"
+        ]
+
+    def current_mission(self):
+
+        return [
+            "Building AI-powered security systems",
+            "Researching offensive security workflows",
+            "Practicing web application security",
+            "Developing threat detection pipelines"
+        ]
+```
+
+<br><br>
+
+---
+
+# Flagship Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+## 🔓 Cryptocrack
+
+### Encoding Analysis & Payload Decryption Framework
 
 ```bash
 python cryptocrack.py --magic payload.txt
 ```
 
-```python
-while encoded_layers:
-    decode_payload()
-    analyze_patterns()
-    extract_hidden_data()
-```
-
-Encoding analysis & payload decryption framework built for:
-- CTF forensics
-- malware payload analysis
-- obfuscation detection
-- multi-layer decoding
-
-### capabilities
+### Capabilities
 
 ```yaml
 supported_formats:
@@ -111,75 +104,72 @@ supported_formats:
   - Base92
 
 features:
-  - OCR Extraction
+  - OCR Payload Extraction
   - EXIF Metadata Analysis
   - Recursive Decoding
-  - Payload Identification
+  - Multi-layer Decryption
 ```
 
-### stack
+### Stack
+`Python` `Docker` `OCR` `CLI`
 
-```txt
-Python • Docker • OCR • CLI
-```
+<br>
 
 <a href="https://github.com/princy0708/cryptocrack">
-<img src="https://img.shields.io/badge/launch_repository-111111?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repository-111111?style=for-the-badge&logo=github"/>
 </a>
 
----
+</td>
 
-## [ STEGAGUARD ]
+<td width="50%">
+
+## 🕵️ StegaGuard
+
+### AI-Powered Steganalysis System
 
 ```python
 if hidden_payload_detected:
     trigger_alert()
-else:
-    continue_scan()
 ```
 
-AI-powered steganalysis framework designed for hidden payload detection using machine learning.
-
-### detection_pipeline
+### Detection Pipeline
 
 ```yaml
 modules:
-  - Feature Extraction
   - ML Classification
+  - Feature Extraction
   - Payload Detection
   - Dataset Validation
 
 output:
   - Hidden Data Probability
-  - Payload Confidence Score
+  - Confidence Score
 ```
 
-### stack
+### Stack
+`Python` `Machine Learning` `Cybersecurity`
 
-```txt
-Python • Machine Learning • Security Research
-```
+<br>
 
 <a href="https://github.com/princy0708/StegaGuard">
-<img src="https://img.shields.io/badge/launch_repository-111111?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repository-111111?style=for-the-badge&logo=github"/>
 </a>
 
----
+</td>
+</tr>
 
-## [ VOXEN ]
+<tr>
+<td width="50%">
+
+## 🎭 Voxen
+
+### AI Digital Twin Pipeline
 
 ```bash
 $ initialize_avatar --realtime
 ```
 
-AI digital twin generation pipeline using:
-- Wav2Lip
-- SadTalker
-- temporal smoothing
-- facial synchronization
-- video stabilization
-
-### architecture
+### Architecture
 
 ```yaml
 pipeline:
@@ -190,79 +180,20 @@ pipeline:
   - Video Rendering
 ```
 
-### stack
+### Stack
+`Deep Learning` `Computer Vision` `Python`
 
-```txt
-Deep Learning • Computer Vision • Python
-```
+<br>
 
 <a href="https://github.com/princy0708/voxen">
-<img src="https://img.shields.io/badge/launch_repository-111111?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repository-111111?style=for-the-badge&logo=github"/>
 </a>
 
----
+</td>
 
-# ~/operations/logs
+<td width="50%">
 
-## IIT Kharagpur — Ethical Hacking Intern
-
-```yaml
-operations:
-  - Vulnerability Assessment
-  - Reconnaissance
-  - Attack Surface Mapping
-  - Security Testing
-
-validated_findings:
-  - SQL Injection
-  - Cross-Site Scripting
-
-toolkit:
-  - Burp Suite
-  - SqlMap
-  - Nmap
-```
-
----
-
-## Cyber Police Station Jammu — Cybercrime Intern
-
-```yaml
-focus:
-  - Phishing Analysis
-  - Digital Evidence
-  - Threat Intelligence
-  - Fraud Investigation
-
-operations:
-  - Incident Documentation
-  - Threat Reporting
-  - Evidence Analysis
-```
-
----
-
-# ~/security/toolkit
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,github,vscode,mysql" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/BurpSuite-111111?style=flat-square&logo=burpsuite&logoColor=orange"/>
-<img src="https://img.shields.io/badge/Metasploit-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/Nmap-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/Wireshark-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/SqlMap-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/Gobuster-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/Kali_Linux-111111?style=flat-square&logo=kalilinux"/>
-
-</div>
-
----
-
-# ~/training/grounds
+## ⚡ Security Research
 
 ```txt
 [✓] PortSwigger Labs
@@ -274,46 +205,133 @@ operations:
 [✓] Recon Automation
 ```
 
----
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
 
-# ~/analytics/dashboard
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=princy0708&show_icons=true&theme=dark&hide_border=true&bg_color=00000000"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=princy0708&theme=dark&hide_border=true"/>
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=princy0708&theme=github-dark&hide_border=true&bg_color=00000000"/>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# ~/certifications/list
+# Real-World Experience
 
-```txt
-[✓] Microsoft SC-900
-[✓] Ethical Hacking — IIT Kharagpur
-[✓] Hack Track Cybersecurity
-[~] CPT (In Progress)
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+## ⚔ Ethical Hacking Intern
+
+### IIT Kharagpur — Awaaz Initiative
+
+```yaml
+operations:
+  - Vulnerability Assessment
+  - Reconnaissance
+  - Security Testing
+  - Attack Surface Mapping
+
+validated_findings:
+  - SQL Injection
+  - Cross-Site Scripting
 ```
+
+### Toolkit
+`Burp Suite` `SqlMap` `Nmap`
+
+</td>
+
+<td width="50%">
+
+## 🚨 Cybercrime Internship
+
+### Cyber Police Station Jammu
+
+```yaml
+focus:
+  - Phishing Analysis
+  - Digital Evidence
+  - Threat Intelligence
+  - Fraud Investigation
+
+operations:
+  - Incident Documentation
+  - Evidence Analysis
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# Security Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,github,vscode,mysql" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/BurpSuite-111111?style=for-the-badge&logo=burpsuite&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nessus-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SqlMap-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux"/>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=princy0708&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=princy0708&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=princy0708&theme=react-dark&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+# Certifications
+
+<div align="center">
+
+| Certification | Status |
+|---|---|
+| Microsoft SC-900 | Certified |
+| Ethical Hacking — IIT Kharagpur | Certified |
+| Hack Track Cybersecurity | Certified |
+| CPT | In Progress |
+
+</div>
 
 ---
 
 <div align="center">
 
 ```txt
-THREAT MONITORING       :: ACTIVE
-AI SECURITY MODULES     :: ONLINE
-OFFENSIVE TOOLKIT       :: LOADED
-SECURITY STATUS         :: OPERATIONAL
+SYSTEM STATUS          :: OPERATIONAL
+THREAT MONITORING      :: ACTIVE
+AI SECURITY MODULES    :: ONLINE
+OFFENSIVE TOOLKIT      :: LOADED
 ```
 
 <br>
 
-<img src="https://raw.githubusercontent.com/princy0708/princy0708/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/princy0708/princy0708/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
