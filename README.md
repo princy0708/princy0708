@@ -356,7 +356,7 @@ Incident Response · Cyber Law
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=princy0708&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&count_private=true"/>
+
 <img width="49%" src="https://streak-stats.demolab.com?user=princy0708&theme=tokyonight&hide_border=true"/>
 
 <br><br>
