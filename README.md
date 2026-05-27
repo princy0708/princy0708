@@ -1,28 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,30:0B1023,60:111827,100:1E293B&text=PRINCY%20CHAUHAN&fontColor=58A6FF&fontSize=58&fontAlignY=38&desc=Cybersecurity%20Researcher%20•%20AI%20Security%20•%20Offensive%20Research&descAlignY=58&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,40:0b1020,70:111827,100:1e293b&text=PRINCY%20CHAUHAN&fontColor=58A6FF&fontSize=56&fontAlignY=38&desc=CYBERSECURITY%20•%20AI%20SECURITY%20•%20OFFENSIVE%20RESEARCH&descAlignY=58&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Threat+Detection+Engineering;AI-Powered+Cybersecurity+Systems;Penetration+Testing+%26+Security+Research;CTF+Forensics+%26+Payload+Analysis;Security+Automation+Pipelines" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Threat+Detection+Engineering;Offensive+Security+Research;AI-Powered+Cybersecurity+Systems;CTF+Forensics+%26+Payload+Analysis;Security+Automation+Pipelines" />
 
 <br><br>
 
-<p align="center">
-
 <a href="https://github.com/princy0708">
-<img src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/princy-chauhan-065236373">
-<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:princychauhan1304@gmail.com">
-<img src="https://img.shields.io/badge/email-161B22?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=princy0708&style=flat-square&color=58A6FF"/>
 
@@ -33,16 +31,16 @@
 <div align="center">
 
 ```txt
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   INITIALIZING SECURITY ENVIRONMENT                         │
-│                                                             │
-│   [✓] AI SECURITY MODULES ONLINE                            │
-│   [✓] THREAT DETECTION SYSTEMS ACTIVE                       │
-│   [✓] OFFENSIVE SECURITY TOOLKIT LOADED                     │
-│   [✓] DIGITAL FORENSICS ENVIRONMENT READY                   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   INITIALIZING SECURITY ENVIRONMENT                          │
+│                                                              │
+│   [✓] AI SECURITY MODULES ONLINE                             │
+│   [✓] THREAT DETECTION SYSTEMS ACTIVE                        │
+│   [✓] OFFENSIVE SECURITY TOOLKIT LOADED                      │
+│   [✓] DIGITAL FORENSICS ENVIRONMENT READY                    │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -51,47 +49,85 @@
 
 # /usr/princy/about.py
 
-<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3FjMGF5YzN0Nm43NXQ2cnBzM3JrbjBvM3FxdWFmY2VqNzFoNm9jNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=Loading+Research+Profile...;Initializing+Security+Modules...;Threat+Intelligence+Systems+Ready..." />
+
+</div>
+
+<br>
 
 ```python
+#!/usr/bin/env python3
+
 class PrincyChauhan:
 
     def __init__(self):
 
-        self.role = "Cybersecurity Researcher"
+        self.role = (
+            "Cybersecurity Researcher | "
+            "AI Security Builder | "
+            "Offensive Security"
+        )
 
         self.domains = {
+
             "Offensive Security": [
-                "Web Application Testing",
-                "Reconnaissance",
                 "SQL Injection",
-                "Cross-Site Scripting"
+                "Cross-Site Scripting",
+                "Reconnaissance",
+                "Attack Surface Mapping"
             ],
 
             "AI Security": [
                 "Steganalysis",
-                "Threat Detection",
-                "ML-based Security Systems"
+                "Threat Detection Systems",
+                "ML Security Pipelines",
+                "Security Automation"
             ],
 
             "Threat Operations": [
                 "Phishing Analysis",
+                "Threat Intelligence",
                 "Digital Evidence",
-                "Threat Intelligence"
+                "Incident Investigation"
             ]
         }
 
-    def mission(self):
-
-        return [
-            "Building AI-powered cybersecurity systems",
-            "Researching offensive security methodologies",
-            "Developing security automation workflows",
-            "Practicing real-world threat analysis"
+        self.active_projects = [
+            "Cryptocrack",
+            "StegaGuard",
+            "Voxen"
         ]
+
+        self.status = "ACTIVE"
+
+    def initialize(self):
+
+        print("[✓] AI Security Modules Loaded")
+        print("[✓] Threat Detection Systems Online")
+        print("[✓] Offensive Toolkit Active")
+        print("[✓] Research Environment Ready")
+
+
+if __name__ == "__main__":
+
+    operator = PrincyChauhan()
+    operator.initialize()
 ```
 
-<br><br>
+<div align="center">
+
+```bash
+root@security-node:~$ python3 about.py
+
+[✓] AI Security Modules Loaded
+[✓] Threat Detection Systems Online
+[✓] Offensive Toolkit Active
+[✓] Research Environment Ready
+```
+
+</div>
 
 ---
 
@@ -105,18 +141,25 @@ class PrincyChauhan:
 
 # 🔓 CRYPTOCRACK
 
-### Encoding Analysis & Payload Decryption Framework
+### Multi-Layer Payload Analysis & Decryption Framework
 
 ```bash
 python cryptocrack.py --magic payload.txt
 ```
 
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" />
+### CORE ENGINE
 
-### ENGINE CAPABILITIES
+```python
+while encoded_layers:
+    decode_payload()
+    fingerprint_patterns()
+    analyze_hidden_data()
+```
+
+### FEATURES
 
 ```yaml
-supported_encodings:
+supported_formats:
   - Base16
   - Base32
   - Base58
@@ -156,8 +199,6 @@ if hidden_payload_detected:
     trigger_alert()
 ```
 
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100%" />
-
 ### DETECTION PIPELINE
 
 ```yaml
@@ -168,8 +209,8 @@ pipeline:
   - Dataset Validation
 
 output:
-  - Confidence Score
   - Threat Probability
+  - Confidence Score
 ```
 
 ### STACK
@@ -198,17 +239,15 @@ Python • Machine Learning • Security Research
 $ initialize_avatar --realtime
 ```
 
-<img src="https://media.giphy.com/media/3o7TKsQ8UQJQ4Bf3Hy/giphy.gif" width="100%" />
-
-### RENDER PIPELINE
+### RENDER ARCHITECTURE
 
 ```yaml
-modules:
+pipeline:
   - Audio Processing
   - Lip Synchronization
   - Facial Animation
   - Temporal Smoothing
-  - Video Rendering
+  - Video Stabilization
 ```
 
 ### STACK
@@ -227,9 +266,7 @@ Deep Learning • Computer Vision • Python
 
 <td width="50%">
 
-# 🧪 ACTIVE SECURITY LABS
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
+# 🧪 ACTIVE LABS
 
 ```txt
 [✓] PortSwigger Labs
@@ -241,13 +278,13 @@ Deep Learning • Computer Vision • Python
 [✓] Recon Automation
 ```
 
-### CURRENT FOCUS
+### CURRENT RESEARCH
 
 ```diff
 + Threat Detection Systems
++ Security Automation
 + AI Security Research
 + Payload Analysis
-+ Security Automation
 + Offensive Security Workflows
 ```
 
@@ -291,9 +328,9 @@ toolkit:
 ### RESPONSIBILITIES
 
 ```txt
-• Conducted web application testing
-• Identified exploitable vulnerabilities
-• Validated attack vectors
+• Conducted vulnerability assessments
+• Identified exploitable attack vectors
+• Performed reconnaissance operations
 • Produced remediation documentation
 ```
 
@@ -307,14 +344,14 @@ toolkit:
 
 ```yaml
 focus:
+  - Threat Intelligence
   - Phishing Analysis
   - Digital Evidence
-  - Threat Intelligence
   - Fraud Investigation
 
 operations:
-  - Incident Documentation
   - Evidence Analysis
+  - Incident Documentation
   - Threat Reporting
 ```
 
@@ -322,8 +359,8 @@ operations:
 
 ```txt
 • Assisted cybercrime investigations
-• Analyzed phishing operations
-• Investigated digital evidence
+• Investigated phishing campaigns
+• Analyzed digital evidence
 • Produced intelligence summaries
 ```
 
@@ -344,13 +381,13 @@ operations:
 <br><br>
 
 <img src="https://img.shields.io/badge/BurpSuite-111111?style=for-the-badge&logo=burpsuite&logoColor=orange"/>
-<img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SqlMap-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gobuster-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux"/>
 <img src="https://img.shields.io/badge/Nessus-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux"/>
 
 </div>
 
