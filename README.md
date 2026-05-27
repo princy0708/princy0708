@@ -71,7 +71,6 @@ class PrincyChauhan:
         self.education = {
             "degree"    : "B.Tech CSE Cybersecurity — Year 2→3",
             "university": "Dev Bhoomi Uttarakhand University",
-            "pursuing"  : "CPT ",
         }
 
         self.specialization = {
