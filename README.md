@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/FOCUS-AI_+_PENTESTING-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ENV-KALI_LINUX-111827?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 
-<br><br>
+<br></br>
 
 <a href="https://linkedin.com/in/princy-chauhan-065236373">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
