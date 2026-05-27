@@ -71,7 +71,7 @@ class PrincyChauhan:
         self.education = {
             "degree"    : "B.Tech CSE Cybersecurity — Year 2→3",
             "university": "Dev Bhoomi Uttarakhand University",
-            "pursuing"  : "CPT · EC-Council EHE",
+            "pursuing"  : "CPT ",
         }
 
         self.specialization = {
@@ -346,8 +346,6 @@ Incident Response · Cyber Law
 <br><br>
 
 <img src="https://img.shields.io/badge/SC--900-111827?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/EC--Council_EHE-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CPT-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TryHackMe-111827?style=for-the-badge&logo=tryhackme&logoColor=red"/>
 <img src="https://img.shields.io/badge/PortSwigger_Labs-111827?style=for-the-badge"/>
 
