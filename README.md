@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/FOCUS-AI_+_PENTESTING-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ENV-KALI_LINUX-111827?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 
-<br></br>
+<br><br>
 
 <a href="https://linkedin.com/in/princy-chauhan-065236373">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -356,10 +356,7 @@ Incident Response · Cyber Law
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=princy0708&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=princy0708&theme=tokyonight&hide_border=true&background=00000000"/>
-
-br><br>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=princy0708&theme=react-dark&hide_border=true&bg_color=00000000"/>
 
 </div>
 
@@ -390,4 +387,4 @@ root@kali:~$ _
 <sub>Breaking things to understand them · Building things to fix them</sub>
 <br><br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=80&section=footer" width="100%"/>
-</div>
+</div> 
