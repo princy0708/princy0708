@@ -99,7 +99,6 @@ class PrincyChauhan:
         }
 
         self.active_projects = [
-            "GuardianAI  — Autonomous SIEM+SOAR+EDR Platform",
             "Voxen       — AI Digital Human Agent",
             "StegaGuard  — ML Steganalysis Engine",
             "Cryptocrack — Multi-Scheme Payload Decoder",
@@ -137,85 +136,11 @@ root@kali:~$ _
 
 ---
 
-# /opt/security/flagship_projects
+# /opt/security/projects
 
 <div align="center">
 
 <table>
-<tr>
-<td width="50%">
-
-## 🛡️ GUARDIANAI
-### Autonomous SIEM+SOAR+EDR Platform
-
-```yaml
-status: IN DEVELOPMENT
-
-core_features:
-  - ML-based log anomaly detection
-  - Automated response playbooks
-  - One-click full rollback engine
-  - Re-login instead of full isolation
-  - Geo IP threat mapping
-  - Built-in attack simulation
-  - Admin alert + PDF reports
-```
-
-```python
-if attack_detected:
-    respond_autonomously()
-    notify_admin()
-    await undo_if_needed()
-```
-
-```txt
-Python · FastAPI · ML · PostgreSQL · React
-Generative AI · Agentic AI
-```
-
-<a href="https://github.com/princy0708">
-<img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-<td width="50%">
-
-## 🎭 VOXEN
-### AI Digital Human Agent
-
-```yaml
-status: IN DEVELOPMENT
-
-pipeline:
-  - Image/video/audio input
-  - Voice cloning
-  - Personality modelling
-  - Lip synchronization (Wav2Lip)
-  - Facial animation (SadTalker)
-  - Temporal smoothing
-  - Autonomous meeting agent
-  - Future: Holographic presence
-```
-
-```python
-if user_input_received:
-    clone_voice()
-    model_personality()
-    generate_avatar()
-```
-
-```txt
-Python · Deep Learning · Computer Vision
-Generative AI · Agentic AI
-```
-
-<a href="https://github.com/princy0708/voxen">
-<img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-
 <tr>
 <td width="50%">
 
@@ -282,6 +207,48 @@ Python · Scikit-learn · Machine Learning
 ```
 
 <a href="https://github.com/princy0708/StegaGuard">
+<img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="100%">
+
+## 🎭 VOXEN
+### AI Digital Human Agent
+
+```yaml
+status: IN DEVELOPMENT
+
+pipeline:
+  - Image/video/audio input
+  - Voice cloning
+  - Personality modelling
+  - Lip synchronization (Wav2Lip)
+  - Facial animation (SadTalker)
+  - Temporal smoothing
+  - Video stabilization
+  - Zero GPU dependency
+```
+
+```python
+if user_input_received:
+    clone_voice()
+    model_personality()
+    generate_avatar()
+```
+
+```txt
+Python · Deep Learning · Computer Vision · Wav2Lip · SadTalker
+```
+
+<a href="https://github.com/princy0708/voxen">
 <img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -381,8 +348,8 @@ Incident Response · Cyber Law
 <img src="https://img.shields.io/badge/SC--900-111827?style=for-the-badge&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/EC--Council_EHE-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CPT-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PortSwigger_Labs-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TryHackMe-111827?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+<img src="https://img.shields.io/badge/PortSwigger_Labs-111827?style=for-the-badge"/>
 
 </div>
 
@@ -412,7 +379,6 @@ root@kali:~$ ./status --verbose
 
 PENTESTING SKILLS       :: ACTIVE
 AI SECURITY MODULES     :: BUILDING
-THREAT DETECTION        :: IN DEVELOPMENT
 OFFENSIVE TOOLKIT       :: LOADED
 BUG BOUNTY              :: STARTING SOON
 AD SECURITY             :: LEARNING
