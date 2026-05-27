@@ -387,4 +387,4 @@ root@kali:~$ _
 <sub>Breaking things to understand them · Building things to fix them</sub>
 <br><br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=80&section=footer" width="100%"/>
-</div> 
+</div>
