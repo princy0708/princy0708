@@ -1,34 +1,28 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=PRINCY%20CHAUHAN&fontSize=55&animation=fadeIn&fontColor=E2E8F0&stroke=58A6FF&color=0:020617,30:0B1120,60:111827,100:2563EB"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=PRINCY%20CHAUHAN&fontSize=55&animation=fadeIn&fontColor=E2E8F0&stroke=58A6FF&color=0:020617,30:0B1120,60:111827,100:2563EB" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=AI-Powered+Cybersecurity+Systems;Offensive+Security+Research;Threat+Detection+Engineering;Payload+Analysis+%26+Digital+Forensics;Security+Automation+Pipelines;Building+Real-World+Security+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Penetration+Tester+in+Progress;AI+Security+Researcher;Threat+Detection+Engineer;Payload+Analysis+%26+Digital+Forensics;Security+Automation+Builder;Breaking+Things+to+Build+Better+Ones" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ROLE-SECURITY_RESEARCHER-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-AI_SECURITY-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ENV-KALI_LINUX-111827?style=for-the-badge&logo=kalilinux"/>
+<img src="https://img.shields.io/badge/FOCUS-AI_+_PENTESTING-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ENV-KALI_LINUX-111827?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 
 <br><br>
-
-<a href="https://github.com/princy0708">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 <a href="https://linkedin.com/in/princy-chauhan-065236373">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:princychauhan1304@gmail.com">
 <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://tryhackme.com">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
 </a>
 
 <br><br>
@@ -46,9 +40,9 @@
 │                                                              │
 │   INITIALIZING SECURITY RESEARCH ENVIRONMENT                 │
 │                                                              │
+│   [✓] OFFENSIVE SECURITY TOOLKIT LOADED                      │
 │   [✓] AI SECURITY MODULES ONLINE                             │
 │   [✓] THREAT DETECTION SYSTEMS ACTIVE                        │
-│   [✓] OFFENSIVE SECURITY TOOLKIT LOADED                      │
 │   [✓] DIGITAL FORENSICS ENVIRONMENT READY                    │
 │   [✓] PAYLOAD ANALYSIS PIPELINES INITIALIZED                 │
 │                                                              │
@@ -61,18 +55,6 @@
 
 # /usr/princy/about.py
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212750251-f6c1b2d5-0d0d-4d07-9f0a-8b5f6e9d7c3f.gif" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Initializing+Security+Profile...;Loading+Threat+Detection+Systems...;Offensive+Security+Toolkit+Ready...;Research+Environment+Initialized...;AI-Powered+Cybersecurity+Systems+Online..." />
-
-</div>
-
-<br>
-
 ```python
 #!/usr/bin/env python3
 
@@ -81,64 +63,59 @@ class PrincyChauhan:
     def __init__(self):
 
         self.role = (
-            "Cybersecurity Researcher | "
-            "AI Security Builder | "
-            "Offensive Security"
+            "Penetration Tester · "
+            "AI Security Builder · "
+            "Security Researcher"
         )
+
+        self.education = {
+            "degree"    : "B.Tech CSE Cybersecurity — Year 2→3",
+            "university": "Dev Bhoomi Uttarakhand University",
+            "pursuing"  : "CPT · EC-Council EHE",
+        }
 
         self.specialization = {
 
             "Offensive Security": [
-                "SQL Injection",
-                "Cross-Site Scripting",
-                "Reconnaissance",
-                "Attack Surface Mapping"
+                "Web Application Pentesting",
+                "SQL Injection & XSS",
+                "Network Reconnaissance",
+                "Attack Surface Mapping",
             ],
 
             "AI Security": [
-                "Steganalysis",
+                "Steganalysis — ML Payload Detection",
                 "Threat Detection Systems",
-                "ML Security Pipelines",
-                "Security Automation"
+                "Security Automation Pipelines",
+                "AI-Powered Digital Human Engine",
             ],
 
             "Threat Operations": [
-                "Threat Intelligence",
-                "Payload Analysis",
-                "Phishing Analysis",
-                "Digital Evidence"
-            ]
+                "Digital Forensics & Evidence Analysis",
+                "Phishing Campaign Analysis",
+                "Threat Intelligence Reporting",
+                "Incident Response Documentation",
+            ],
         }
 
         self.active_projects = [
-            "Cryptocrack",
-            "StegaGuard",
-            "Voxen",
-            "ReconFlow",
-            "ThreatVision"
-        ]
-
-        self.current_focus = [
-            "AI-powered cybersecurity systems",
-            "Threat detection engineering",
-            "Security automation workflows",
-            "Offensive security research"
+            "GuardianAI  — Autonomous SIEM+SOAR+EDR Platform",
+            "Voxen       — AI Digital Human Agent",
+            "StegaGuard  — ML Steganalysis Engine",
+            "Cryptocrack — Multi-Scheme Payload Decoder",
         ]
 
         self.environment = "Kali Linux"
-
-        self.status = "ONLINE"
+        self.status      = "ONLINE · BUILDING · LEARNING"
 
     def initialize(self):
-
-        print("[✓] AI Security Modules Loaded")
-        print("[✓] Threat Detection Systems Online")
-        print("[✓] Offensive Security Toolkit Active")
+        print("[✓] Offensive Security Toolkit Loaded")
+        print("[✓] AI Security Modules Online")
+        print("[✓] Threat Detection Systems Active")
         print("[✓] Security Research Environment Ready")
 
 
 if __name__ == "__main__":
-
     operator = PrincyChauhan()
     operator.initialize()
 ```
@@ -146,14 +123,14 @@ if __name__ == "__main__":
 <div align="center">
 
 ```bash
-root@security-node:~$ python3 about.py
+root@kali:~$ python3 about.py
 
-[✓] AI Security Modules Loaded
-[✓] Threat Detection Systems Online
-[✓] Offensive Security Toolkit Active
+[✓] Offensive Security Toolkit Loaded
+[✓] AI Security Modules Online
+[✓] Threat Detection Systems Active
 [✓] Security Research Environment Ready
 
-root@security-node:~$
+root@kali:~$ _
 ```
 
 </div>
@@ -168,90 +145,72 @@ root@security-node:~$
 <tr>
 <td width="50%">
 
-# 🔓 CRYPTOCRACK
-
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2d4c0b85-2cb8-44f5-bac7-2e8f9d7b7f1d.gif" width="100%"/>
-
-### Multi-Layer Payload Analysis Framework
-
-```bash
-python cryptocrack.py --magic payload.txt
-```
-
-### CORE ENGINE
-
-```python
-while encoded_layers:
-    decode_payload()
-    fingerprint_patterns()
-    analyze_hidden_data()
-```
-
-### FEATURES
+## 🛡️ GUARDIANAI
+### Autonomous SIEM+SOAR+EDR Platform
 
 ```yaml
-supported_formats:
-  - Base16
-  - Base32
-  - Base58
-  - Base64
-  - Base85
-  - Base92
+status: IN DEVELOPMENT
 
-analysis_modules:
-  - OCR Extraction
-  - Recursive Decoding
-  - EXIF Metadata Analysis
-  - Payload Fingerprinting
+core_features:
+  - ML-based log anomaly detection
+  - Automated response playbooks
+  - One-click full rollback engine
+  - Re-login instead of full isolation
+  - Geo IP threat mapping
+  - Built-in attack simulation
+  - Admin alert + PDF reports
 ```
 
-### STACK
+```python
+if attack_detected:
+    respond_autonomously()
+    notify_admin()
+    await undo_if_needed()
+```
 
 ```txt
-Python • Docker • OCR • CLI
+Python · FastAPI · ML · PostgreSQL · React
+Generative AI · Agentic AI
 ```
 
-<a href="https://github.com/princy0708/cryptocrack">
-<img src="https://img.shields.io/badge/Launch_Repository-111827?style=for-the-badge&logo=github"/>
+<a href="https://github.com/princy0708">
+<img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
-
 <td width="50%">
 
-# 🕵️ STEGAGUARD
-
-<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50d6e1a4d.gif" width="100%"/>
-
-### AI-Powered Steganalysis Engine
-
-```python
-if hidden_payload_detected:
-    trigger_alert()
-```
-
-### DETECTION PIPELINE
+## 🎭 VOXEN
+### AI Digital Human Agent
 
 ```yaml
-pipeline:
-  - Feature Extraction
-  - ML Classification
-  - Payload Detection
-  - Dataset Validation
+status: IN DEVELOPMENT
 
-output:
-  - Threat Probability
-  - Confidence Score
+pipeline:
+  - Image/video/audio input
+  - Voice cloning
+  - Personality modelling
+  - Lip synchronization (Wav2Lip)
+  - Facial animation (SadTalker)
+  - Temporal smoothing
+  - Autonomous meeting agent
+  - Future: Holographic presence
 ```
 
-### STACK
+```python
+if user_input_received:
+    clone_voice()
+    model_personality()
+    generate_avatar()
+```
 
 ```txt
-Python • Machine Learning • Security Research
+Python · Deep Learning · Computer Vision
+Generative AI · Agentic AI
 ```
 
-<a href="https://github.com/princy0708/StegaGuard">
-<img src="https://img.shields.io/badge/Launch_Repository-111827?style=for-the-badge&logo=github"/>
+<a href="https://github.com/princy0708/voxen">
+<img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -260,64 +219,71 @@ Python • Machine Learning • Security Research
 <tr>
 <td width="50%">
 
-# 🎭 VOXEN
-
-<img src="https://user-images.githubusercontent.com/74038190/212750005-f5c63f6f-0cbb-42f2-9f5f-f6f9d1b0f4dc.gif" width="100%"/>
-
-### AI Digital Twin Generation Pipeline
+## 🔓 CRYPTOCRACK
+### Multi-Layer Payload Analysis CLI
 
 ```bash
-$ initialize_avatar --realtime
+python cryptocrack.py --magic payload.txt
 ```
-
-### RENDER PIPELINE
 
 ```yaml
-pipeline:
-  - Audio Processing
-  - Lip Synchronization
-  - Facial Animation
-  - Temporal Smoothing
-  - Video Stabilization
-```
+supported_schemes:
+  - Base2 through Base92
+  - Morse Code
+  - URL Encoding
+  - HTML Entities
+  - 20+ total schemes
 
-### STACK
+features:
+  - Magic Mode (auto multi-layer decode)
+  - OCR payload extraction (Tesseract)
+  - EXIF metadata analysis
+  - CTF forensics ready
+  - Dockerized deployment
+```
 
 ```txt
-Deep Learning • Computer Vision • Python
+Python · Docker · OCR · Cryptanalysis · CTF
 ```
 
-<a href="https://github.com/princy0708/voxen">
-<img src="https://img.shields.io/badge/Launch_Repository-111827?style=for-the-badge&logo=github"/>
+<a href="https://github.com/princy0708/cryptocrack">
+<img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
-
 <td width="50%">
 
-# 🧪 ACTIVE SECURITY LABS
+## 🕵️ STEGAGUARD
+### AI-Powered Steganalysis Engine
 
-<img src="https://user-images.githubusercontent.com/74038190/212749726-2f4dbf6b-3c7e-4d0b-87d3-4ec0cb162d0d.gif" width="100%"/>
+```python
+if hidden_payload_detected:
+    trigger_alert()
+    log_findings()
+```
+
+```yaml
+detection_pipeline:
+  - Feature Extraction
+  - ML Classification
+  - Payload Detection
+  - Dataset Validation
+
+output:
+  - Threat Probability
+  - Confidence Score
+  - Clean vs Stego Label
+
+tested_on: 500+ image samples
+```
 
 ```txt
-[✓] PortSwigger Labs
-[✓] TryHackMe
-[✓] DVWA
-[✓] VulnHub Machines
-[✓] SQL Injection Labs
-[✓] XSS Practice
-[✓] Recon Automation
+Python · Scikit-learn · Machine Learning
 ```
 
-### CURRENT RESEARCH
-
-```diff
-+ Threat Detection Systems
-+ Security Automation
-+ Payload Analysis
-+ AI Security Research
-+ Offensive Security Workflows
-```
+<a href="https://github.com/princy0708/StegaGuard">
+<img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
@@ -327,15 +293,7 @@ Deep Learning • Computer Vision • Python
 
 ---
 
-# /var/log/security_operations
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212749726-2f4dbf6b-3c7e-4d0b-87d3-4ec0cb162d0d.gif" width="100%"/>
-
-</div>
-
-<br>
+# /var/log/field_operations
 
 <div align="center">
 
@@ -343,49 +301,52 @@ Deep Learning • Computer Vision • Python
 <tr>
 <td width="50%">
 
-# ⚔ IIT KHARAGPUR
-
+## ⚔️ IIT KHARAGPUR
 ### Ethical Hacking Intern
 
 ```yaml
-operations:
-  - Vulnerability Assessment
-  - Reconnaissance
-  - Security Testing
-  - Attack Surface Mapping
+org: Awaaz Initiative — IIT Kharagpur
+cert_id: EDU-KGP-EH062025005
 
-validated_findings:
-  - SQL Injection
-  - Cross-Site Scripting
+operations:
+  - Vulnerability assessment
+    across 3 live web applications
+  - Identified 5+ critical SQLi
+    and XSS vulnerabilities
+  - Full PoC exploit chains
+  - Nmap network reconnaissance
+  - Remediation reports adopted
+    by security team
 ```
 
-### TOOLKIT
-
 ```txt
-Burp Suite
-SqlMap
-Nmap
+Burp Suite · SqlMap · Nmap · Nikto
 ```
 
 </td>
-
 <td width="50%">
 
-# 🚨 CYBER POLICE JAMMU
-
-### Cybercrime Internship
+## 🚨 CYBER POLICE JAMMU
+### Cyber Analyst Intern
 
 ```yaml
-focus:
-  - Threat Intelligence
-  - Digital Evidence
-  - Phishing Analysis
-  - Fraud Investigation
+org: Cyber Police Station, Jammu
 
 operations:
-  - Incident Documentation
-  - Threat Reporting
-  - Evidence Analysis
+  - Digital forensics on 10+
+    active cybercrime cases
+  - Phishing analysis across
+    15+ fraud incidents
+  - Threat intelligence reports
+    used in active case files
+  - Authored 30-page IR guide
+    adopted as official training
+    resource
+```
+
+```txt
+Digital Forensics · Threat Intel
+Incident Response · Cyber Law
 ```
 
 </td>
@@ -400,22 +361,28 @@ operations:
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212744919-84e7a9d0-6b83-4b48-b5ef-6c8b95d9f95d.gif" width="70%"/>
+<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,react,flutter,firebase" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,github,vscode,mysql" />
+<img src="https://img.shields.io/badge/Burp_Suite-111827?style=for-the-badge&logo=burpsuite&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Metasploit-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nmap-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SqlMap-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nikto-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gobuster-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nessus-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WPScan-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kali_Linux-111827?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/BurpSuite-111111?style=for-the-badge&logo=burpsuite&logoColor=orange"/>
-<img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SqlMap-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gobuster-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Nessus-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux"/>
+<img src="https://img.shields.io/badge/SC--900-111827?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/EC--Council_EHE-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CPT-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PortSwigger_Labs-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TryHackMe-111827?style=for-the-badge&logo=tryhackme&logoColor=red"/>
 
 </div>
 
@@ -426,8 +393,7 @@ operations:
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=princy0708&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=princy0708&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=princy0708&theme=tokyonight&hide_border=true&background=00000000"/>
 
 <br><br>
 
@@ -437,21 +403,30 @@ operations:
 
 ---
 
-# /terminal/status
+# /terminal/current_status
 
 <div align="center">
 
 ```bash
-root@security-node:~$ system_status
+root@kali:~$ ./status --verbose
 
-THREAT MONITORING      :: ACTIVE
-AI SECURITY MODULES    :: ONLINE
-OFFENSIVE TOOLKIT      :: LOADED
-SECURITY STATUS        :: OPERATIONAL
+PENTESTING SKILLS       :: ACTIVE
+AI SECURITY MODULES     :: BUILDING
+THREAT DETECTION        :: IN DEVELOPMENT
+OFFENSIVE TOOLKIT       :: LOADED
+BUG BOUNTY              :: STARTING SOON
+AD SECURITY             :: LEARNING
+OVERALL STATUS          :: OPERATIONAL
+
+root@kali:~$ _
 ```
 
-<br>
+</div>
 
-<img src="https://raw.githubusercontent.com/princy0708/princy0708/output/github-contribution-grid-snake-dark.svg"/>
+---
 
+<div align="center">
+<sub>Breaking things to understand them · Building things to fix them</sub>
+<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=80&section=footer" width="100%"/>
 </div>
